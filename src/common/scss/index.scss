@@ -1,0 +1,28 @@
+.pad-box {
+  padding: 10px 15px;
+}
+
+.text-left {
+  text-align: left;
+}
+.text-right {
+  text-align: right;
+}
+.text-center{
+  text-align: center;
+}
+
+.pad-left-reset {
+  padding-left: 0;
+}
+.pad-right-reset {
+  padding-right: 0;
+}
+.pad-top-reset {
+  padding-top: 0;
+}
+.pad-bottom-reset {
+  padding-bottom: 0;
+}
+
+@import "base";

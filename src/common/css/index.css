@@ -1,0 +1,42 @@
+.pad-box {
+  padding: 10px 15px; }
+
+.text-left {
+  text-align: left; }
+
+.text-right {
+  text-align: right; }
+
+.text-center {
+  text-align: center; }
+
+.pad-left-reset {
+  padding-left: 0; }
+
+.pad-right-reset {
+  padding-right: 0; }
+
+.pad-top-reset {
+  padding-top: 0; }
+
+.pad-bottom-reset {
+  padding-bottom: 0; }
+
+body, html {
+  margin: 0;
+  padding: 0;
+  color: #212121;
+  line-height: 1;
+  overflow-y: scroll;
+  overflow: scroll;
+  min-height: 101%;
+  -webkit-overflow-scrolling: touch; }
+
+li {
+  list-style: none; }
+
+a {
+  text-decoration: none;
+  color: #212121; }
+
+/*# sourceMappingURL=index.css.map */

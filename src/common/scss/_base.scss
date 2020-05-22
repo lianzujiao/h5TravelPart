@@ -1,0 +1,20 @@
+@charset 'utf-8';
+@import "variable.scss";
+
+body,html{
+    margin: 0;
+    padding: 0;
+    color: $color-text;
+    line-height: 1;
+    overflow-y:scroll;
+    overflow:scroll; 
+    min-height:101%;
+    -webkit-overflow-scrolling: touch;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: $color-text;
+}
